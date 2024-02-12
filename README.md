@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Khope</h1>
-<h3 align="center">A passionate frontend enthusiast and AWS certified Cloud Practitioner</h3>
+<h3 align="center">A passionate Analyst and AWS certified Cloud Practitioner</h3>
 
 - 🔭 I’m currently working on [CSV iporter](https://github.com/StackItHQ/stackit-hiring-assignment-SiddheshKhope)
 
